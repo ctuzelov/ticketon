@@ -1,0 +1,9 @@
+1. Install VirtualBox and any Linux ISO
+2. Open an create virtual machine 
+3. Allocate memory for your operating system
+4. After making some custom configs open terminal
+
+commands:
+1. sudo apt install python3
+2. python3 -m http.server --bind 127.0.0.1 9000(you can choose any available localhost port from 1024 to 9000)
+3. you are done!
